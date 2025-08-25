@@ -13,7 +13,7 @@ Analyzed train delay data using SQL queries and Python for data cleaning. Built 
 
 **Files in this repository:**  
 - `train delay data(Raw).csv`→ Raw dataset
-- - `train_delay_cleaning.ipynb` → Python script for cleaning and preprocessing  
--  `train_delay_cleaned.csv` → Cleaned dataset used for analysis
+- `train_delay_cleaning.ipynb` → Python script for cleaning and preprocessing  
+- `train_delay_cleaned.csv` → Cleaned dataset used for analysis
 - `train_delay_queries.sql` → SQL queries for data extraction and analysis  
 - `train_delay_dash2.pbix` → Power BI dashboard file  
